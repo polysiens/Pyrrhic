@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.2",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "Pyr_Basic_Character",
+			"Enabled": true
+		},
+		{
+			"Name": "Pyr_Basic_Game_Setup",
+			"Enabled": true
+		},
+		{
+			"Name": "Pyr_Test_Game",
+			"Enabled": true
+		},
+		{
+			"Name": "Pyr_CameraSetup",
+			"Enabled": true
+		},
+		{
+			"Name": "Adrenaline",
+			"Enabled": true
+		},
+		{
+			"Name": "Pyr_CharacterState",
+			"Enabled": true
+		}
+	]
+}
