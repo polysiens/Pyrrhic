@@ -38,6 +38,14 @@
 		{
 			"Name": "Pyr_CharacterState",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "Pyrrhic_Multiplayer",
+			"Enabled": true
 		}
 	]
 }
