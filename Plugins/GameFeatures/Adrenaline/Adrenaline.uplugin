@@ -27,6 +27,11 @@
 			"Name": "Pyr_CharacterState",
 			"Enabled": true,
 			"Optional": true
+		},
+		{
+			"Name": "Pyr_Debug",
+			"Enabled": true,
+			"Optional": true
 		}
 	]
 }
